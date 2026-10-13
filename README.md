@@ -45,7 +45,7 @@ The scripts expect a specific directory structure. Make sure your working direct
 ├── scripts/                              # Put the python scripts here
 │   ├── 01_transcriptome_scan.py
 │   └── 02_doe_inhibitor_analysis.py
-└── results/                              # This folder will be generated automatically
+└── results/                         
 
 
 3. Execution
